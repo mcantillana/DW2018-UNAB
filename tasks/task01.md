@@ -1,8 +1,8 @@
 # Tarea 01
 ## Descripción actividad
-Jugadores y equipos. En el basketball, así como en otros deportes, los equipos se conforman por jugadores con diferentes caracteristicas. 
+En el basketball, así como en otros deportes, los equipos (Team) se conforman por jugadores (Players) y uno o más entrenadores. Además cada equipo puede participar en diferentes partidos, donde se debe conformar una nómina de juego que contenga los jugadores que participarán en el partido. 
 
-Usted debe implementar un modelo de datos utilizando Django 2 que permita modelar la situación descrita anteriormente. El modelo debe contener las siguientes características:
+Usted debe implementar un modelo de datos utilizando Django 2 que permita modelar la situación descrita anteriormente. El modelo debe contener las siguientes características como mínimas:
 
 * El modelo Team debe tener los siguientes fields
     - Nombre del team
@@ -21,6 +21,16 @@ Usted debe implementar un modelo de datos utilizando Django 2 que permita modela
     - Peso
     - Fotografía
     - Posición de juego (opciones: Base, Escolta, Alero, Ala-pivot, Pivot)
+
+* El modelo Coach debe contener los siguientes fields:
+    - Nombre entrenador
+    - Edad
+    - Email
+    - Rut
+    - Apodo
+
+* El modelo partido debe contener los siguientes fields
+    - Nombre partido
 
 Además de escribir el modelo en Django, debe configurar el administrador para que puedan ser administrados estos modelos. En el administrador debe configurar los siguientes elementos:
 
