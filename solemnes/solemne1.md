@@ -59,3 +59,7 @@ La aplicación debe considerar las siguientes características:
 * Se evaluará el uso de models en django
 * Se evaluará el uso de views, urls y templates
 * Manejo de login
+
+## Hints
+* Utilice los HTML entregados en el proyecto https://github.com/mcantillana/dw2018-views-html
+* Para el login puede utilizar bootstrap con su ejemplo login http://getbootstrap.com/docs/4.1/examples/floating-labels/ 
