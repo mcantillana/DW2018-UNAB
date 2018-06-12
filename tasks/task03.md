@@ -5,13 +5,13 @@ Se pide implementar los siguientes patrones de diseño responsive: Mostly Fluid,
 
 Los patrones a implementar son los siguientes:
 
-Mostly Fluid
+### Mostly Fluid
 ![Image of Mostly Fluid](https://s3.amazonaws.com/media-p.slid.es/uploads/142575/images/1728627/md-patterns1.png)
 
-Column drop
+### Column drop
 ![Image of Column drop](https://s3.amazonaws.com/media-p.slid.es/uploads/142575/images/1728627/md-patterns1.png)
 
-Layout Shifter
+### Layout Shifter
 ![Image of Layout Shifter](https://s3.amazonaws.com/media-p.slid.es/uploads/142575/images/1728652/rwd-layout-shifter.jpg)
 
 Cada vista debe estar en un HTML por separado y versionado utilizando GIT.
