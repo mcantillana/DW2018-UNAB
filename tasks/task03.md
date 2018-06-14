@@ -9,7 +9,7 @@ Los patrones a implementar son los siguientes:
 ![Image of Mostly Fluid](https://s3.amazonaws.com/media-p.slid.es/uploads/142575/images/1728627/md-patterns1.png)
 
 ### Column drop
-![Image of Column drop](https://s3.amazonaws.com/media-p.slid.es/uploads/142575/images/1728627/md-patterns1.png)
+![Image of Column drop](https://s3.amazonaws.com/media-p.slid.es/uploads/142575/images/1728649/md-patterns2.png)
 
 ### Layout Shifter
 ![Image of Layout Shifter](https://s3.amazonaws.com/media-p.slid.es/uploads/142575/images/1728652/rwd-layout-shifter.jpg)
